@@ -34,9 +34,9 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
         "DIFÍCIL": [
              ["Epidemológico", "Epidemiológico"],
-  ["exhuberante", "exuberante"],
+  ["Exhuberante", "Exuberante"],
   ["Venefisencia", "Beneficencia"],
-  ["caractérez", "Caracteres"],
+  ["Caractérez", "Caracteres"],
   ["Termoregulación", "Termorregulación"], ["Consiensia", "Consciencia"],
             ["Trasendencia", "trascendencia"], ["Contemporaneo", "Contemporáneo"],
             ["Venevolencia", "Benevolencia"], ["Sicoanalis", "Psicoanálisis"]
