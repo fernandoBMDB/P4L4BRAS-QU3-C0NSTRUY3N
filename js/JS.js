@@ -22,24 +22,24 @@ document.addEventListener("DOMContentLoaded", () => {
     // === BANCO DE PALABRAS ===
     const bancoPalabras = {
         "FÁCIL": [
-            ["Adios", "Adiós"], ["aser", "Hacer"], ["sapato", "zapato"],
-            ["abeces", "A veces"], ["minimo", "mìnimo"], ["baca", "vaca"],
-            ["arbol", "àrbol"], ["difisil", "difìcil"], ["Potejido", "protegido"], ["con migo", "conmigo"]
+            ["Adios", "Adiós"], ["Aser", "Hacer"], ["Sapato", "Zapato"],
+            ["Abeces", "A veces"], ["Minimo", "Mínimo"], ["Baca", "Vaca"],
+            ["Arbol", "Árbol"], ["Difisil", "DifÍcil"], ["Protejido", "Protegido"], ["Con migo", "Conmigo"]
         ],
         "MEDIO": [
-            ["almuada", "almohada"], ["alrrededor", "alrededor"], ["pasiencia", "paciencia"],
-            ["disiplina", "diciplina"], ["auja", "aguja"], ["talvez", "tal vez"],
-            ["sancudo", "zancudo"], ["bivora", "vibora"],
-            ["umano", "humano"], ["estravagante", "extravagante"]
+            ["Almuada", "Almohada"], ["Alrrededor", "Alrededor"], ["Pasiencia", "Paciencia"],
+            ["Disiplina", "Diciplina"], ["Auja", "Aguja"], ["Talvez", "Tal vez"],
+            ["Sancudo", "Zancudo"], ["Bivora", "Vibora"],
+            ["Umano", "Humano"], ["Estravagante", "Extravagante"]
         ],
         "DIFÍCIL": [
-             ["idiosincracia", "idiosincrasia"],
+             ["Epidemológico", "Epidemiológico"],
   ["exhuberante", "exuberante"],
-  ["beneficencia", "beneficencia"],
-  ["caractéres", "caracteres"],
-  ["vicisictud", "vicisitud"], ["cosiencia", "consciencia"],
-            ["trasendencia", "trascendencia"], ["Contemporaneo", "Contemporáneo"],
-            ["venevolencia", "Benevolencia"], ["Estravagante", "Extravagante"]
+  ["Venefisencia", "Beneficencia"],
+  ["caractérez", "Caracteres"],
+  ["vicisictud", "vicisitud"], ["Consiensia", "Consciencia"],
+            ["Trasendencia", "trascendencia"], ["Contemporaneo", "Contemporáneo"],
+            ["Venevolencia", "Benevolencia"], ["Estravagante", "Extravagante"]
         ]
     };
 
