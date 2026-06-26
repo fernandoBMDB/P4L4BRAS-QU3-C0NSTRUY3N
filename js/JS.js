@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
         "MEDIO": [
             ["Almuada", "Almohada"], ["Alrrededor", "Alrededor"], ["Pasiencia", "Paciencia"],
-            ["Disiplina", "Diciplina"], ["Auja", "Aguja"], ["Talvez", "Tal vez"],
+            ["Disiplina", "Disciplina"], ["Auja", "Aguja"], ["Talvez", "Tal vez"],
             ["Sancudo", "Zancudo"], ["Bivora", "Vibora"],
             ["Umano", "Humano"], ["Estravagante", "Extravagante"]
         ],
