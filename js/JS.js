@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ["Venefisencia", "Beneficencia"],
   ["Caractérez", "Caracteres"],
   ["Termoregulación", "Termorregulación"], ["Consiensia", "Consciencia"],
-            ["Trasendencia", "trascendencia"], ["Contemporaneo", "Contemporáneo"],
+            ["Trasendencia", "Trascendencia"], ["Contemporaneo", "Contemporáneo"],
             ["Venevolencia", "Benevolencia"], ["Sicoanalis", "Psicoanálisis"]
         ]
     };
