@@ -22,9 +22,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // === BANCO DE PALABRAS ===
     const bancoPalabras = {
         "FÁCIL": [
-            ["Adios", "Adiós"], ["Haser", "Hacer"], ["çapato", "zapato"],
+            ["Adios", "Adiós"], ["aser", "Hacer"], ["sapato", "zapato"],
             ["abeces", "A veces"], ["minimo", "mìnimo"], ["baca", "vaca"],
-            ["arbol", "àrbol"], ["aser", "hacer"], ["Potejido", "protegido"], ["con migo", "conmigo"]
+            ["arbol", "àrbol"], ["difisil", "difìcil"], ["Potejido", "protegido"], ["con migo", "conmigo"]
         ],
         "MEDIO": [
             ["almuada", "almohada"], ["alrrededor", "alrededor"], ["pasiencia", "paciencia"],
