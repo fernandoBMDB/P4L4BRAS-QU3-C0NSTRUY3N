@@ -22,22 +22,24 @@ document.addEventListener("DOMContentLoaded", () => {
     // === BANCO DE PALABRAS ===
     const bancoPalabras = {
         "FÁCIL": [
-            ["Adios", "Adiós"], ["Hacer", "Hacer"], ["çapato", "zapato"],
-            ["gato", "gato"], ["perro", "perro"], ["casa", "casa"],
-            ["sol", "sol"], ["luna", "luna"], ["agua", "agua"], ["Árbol", "Árbol"]
+            ["Adios", "Adiós"], ["Haser", "Hacer"], ["çapato", "zapato"],
+            ["abeces", "A veces"], ["minimo", "mìnimo"], ["baca", "vaca"],
+            ["arbol", "àrbol"], ["aser", "hacer"], ["Potejido", "protegido"], ["con migo", "conmigo"]
         ],
         "MEDIO": [
-            ["jirafa", "jirafa"], ["examen", "examen"], ["biyete", "billete"],
-            ["acción", "acción"], ["objeto", "objeto"], ["burbuja", "burbuja"],
-            ["Paciencia", "Paciencia"], ["Disciplina", "Disciplina"],
-            ["Almohada", "Almohada"], ["Alrededor", "Alrededor"]
+            ["almuada", "almohada"], ["alrrededor", "alrededor"], ["pasiencia", "paciencia"],
+            ["disiplina", "diciplina"], ["auja", "aguja"], ["talvez", "tal vez"],
+            ["sancudo", "zancudo"], ["bivora", "vibora"],
+            ["umano", "humano"], ["estravagante", "extravagante"]
         ],
         "DIFÍCIL": [
-            ["idiosincrasia", "idiosincrasia"], ["otorrinolaringologo", "otorrinolaringólogo"],
-            ["escepticismo", "escepticismo"], ["vicisitud", "vicisitud"],
-            ["Consciencia", "Consciencia"], ["Trascendencia", "Trascendencia"],
-            ["Jerarquía", "Jerarquía"], ["Contemporáneo", "Contemporáneo"],
-            ["Benevolencia", "Benevolencia"], ["Extravagante", "Extravagante"]
+             ["idiosincracia", "idiosincrasia"],
+  ["exhuberante", "exuberante"],
+  ["beneficencia", "beneficencia"],
+  ["caractéres", "caracteres"],
+  ["vicisictud", "vicisitud"], ["cosiencia", "consciencia"],
+            ["trasendencia", "trascendencia"], ["Contemporaneo", "Contemporáneo"],
+            ["venevolencia", "Benevolencia"], ["Estravagante", "Extravagante"]
         ]
     };
 
